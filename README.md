@@ -41,5 +41,5 @@ My research explored how penetration testing findings can be interpreted alongsi
 
 ## 📫 Connect with Me
 
-- **LinkedIn:** *Profile link to be added*
+- **LinkedIn:** [linkedin.com/in/ajibade-michael-55b7a1338](https://www.linkedin.com/in/ajibade-michael-55b7a1338/)
 - **Medium:** [medium.com/@AjibadeMichael](https://medium.com/@AjibadeMichael)

@@ -25,11 +25,9 @@ The repository includes a technical report, methodology, reviewed scan outputs, 
 
 **[Explore the project →](https://github.com/AjibadeMichael/nmap-network-scanning-lab)**
 
-## 🎓 Research
+## 🎓 Research Interests
 
-**MSc Dissertation:** *A Risk-Based Approach to Penetration Testing: Integrating Penetration Testing Results into Cybersecurity Risk Assessment for Effective Vulnerability Prioritisation.*
-
-My research explored how penetration testing findings can be interpreted alongside cybersecurity risk considerations to support more informed vulnerability prioritisation.
+My academic research focuses on risk-based penetration testing, cybersecurity risk assessment, and vulnerability prioritisation, with particular interest in improving how technical security findings inform organisational risk decisions.
 
 ## 🛠️ Tools & Environments
 

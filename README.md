@@ -1,68 +1,45 @@
-# 👋 Hi, I'm Michael Ajibade
+# Michael Ajibade
 
-🎓 MSc Cyber Security Student at De Montfort University (United Kingdom)
+**Cybersecurity | Penetration Testing | Risk-Based Vulnerability Assessment**
 
-I am passionate about building practical cybersecurity skills through hands-on projects, research, and continuous learning.
+MSc Cyber Security · De Montfort University, United Kingdom
 
-My goal is to become a highly skilled cybersecurity professional specialising in:
-
-- 🛡️ Penetration Testing
-- 🔍 Malware Analysis
-- 🧪 Digital Forensics
-- ⚡ Detection Engineering
-- 🕵️ Threat Hunting
+I focus on understanding security weaknesses through practical testing, technical investigation, and evidence-based risk assessment. My interests include penetration testing, vulnerability prioritisation, malware analysis, and digital forensics.
 
 ---
 
-# 🚀 Current Learning Journey
+## 🔎 Areas of Focus
 
-I am currently focusing on:
+- **Penetration Testing:** Network and web application security assessment
+- **Vulnerability Assessment:** Identifying, validating, and prioritising security weaknesses
+- **Cybersecurity Risk:** Interpreting technical findings in their operational and business context
+- **Security Investigations:** Malware analysis, digital forensics, and threat analysis
 
-- TryHackMe Labs
-- Malware Analysis
-- Digital Forensics
-- Python for Cybersecurity
-- Detection Engineering
-- Windows Security
-- Web Application Security
+## 📂 Featured Project
 
----
+### [Nmap Network Scanning & Risk-Based Vulnerability Assessment](https://github.com/AjibadeMichael/nmap-network-scanning-lab)
 
-# 📂 What you'll find on my GitHub
+An authorised assessment of an isolated Kali Linux and Ubuntu lab environment. The project covers host discovery, TCP port scanning, service enumeration, target-side validation, and risk-based interpretation of findings.
 
-This GitHub documents my cybersecurity journey through practical projects and technical write-ups.
+The repository includes a technical report, methodology, reviewed scan outputs, and supporting screenshots.
 
-Projects will include:
+**[Explore the project →](https://github.com/AjibadeMichael/nmap-network-scanning-lab)**
 
-- Penetration Testing Labs
-- TryHackMe Walkthroughs
-- Malware Analysis Reports
-- Digital Forensics Investigations
-- Detection Engineering Labs
-- Python Security Tools
-- Cybersecurity Research
+## 🎓 Research
 
----
+**MSc Dissertation:** *A Risk-Based Approach to Penetration Testing: Integrating Penetration Testing Results into Cybersecurity Risk Assessment for Effective Vulnerability Prioritisation.*
 
-# 🎯 2026 Goals
+My research explored how penetration testing findings can be interpreted alongside cybersecurity risk considerations to support more informed vulnerability prioritisation.
 
-- Complete 50+ TryHackMe rooms
-- Publish cybersecurity projects on GitHub
-- Write technical articles on Medium
-- Share cybersecurity knowledge on LinkedIn
-- Build a strong cybersecurity portfolio
-- Prepare for the UK Global Talent Visa
+## 🛠️ Tools & Environments
 
----
+`Nmap` · `Kali Linux` · `Burp Suite` · `Wireshark` · `VMware` · `Ubuntu`
 
-# 📫 Connect with Me
+## ✍️ Technical Writing
 
-LinkedIn: *(Coming Soon)*
+- [Beyond Open Ports: My Practical Nmap Lab and Risk-Based Vulnerability Assessment](https://medium.com/@AjibadeMichael/beyond-open-ports-my-practical-nmap-lab-and-risk-based-vulnerability-assessment-659c2a5d03ca)
 
-Medium: *(Coming Soon)*
+## 📫 Connect with Me
 
-Portfolio Website: *(Coming Soon)*
-
----
-
-> *"Learning never exhausts the mind."* — Leonardo da Vinci
+- **LinkedIn:** *Profile link to be added*
+- **Medium:** [medium.com/@AjibadeMichael](https://medium.com/@AjibadeMichael)
